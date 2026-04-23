@@ -35,7 +35,7 @@ img { display: block; border: 0; outline: none; text-decoration: none; }
 <tr>
 <td align="center" style="padding:0;font-size:0;line-height:0;">
   <a href="https://viderma.com.br/rosto" target="_blank">
-    <img src="{{BANNER_IMAGE_URL}}"
+    <img src="https://email-editor-production.s3.amazonaws.com/images/143060/_newsletter%20Viderma%20%281900%20x%20800%20px%29.png"
          alt="Guia dos Ácidos — qual é o certo para a sua pele?"
          width="660" style="width:100%;max-width:660px;height:auto;display:block;border:0;">
   </a>
