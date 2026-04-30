@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<body style="margin:0;padding:0;background:#f6f6f6;font-family:Arial,Helvetica,sans-serif;color:#333;">
+<table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background:#f6f6f6;">
+<tr><td align="center" style="padding:24px 0;">
+<table role="presentation" width="600" cellspacing="0" cellpadding="0" border="0" style="background:#ffffff;max-width:600px;">
+
+<!-- Header strip -->
+<tr><td align="center" style="padding:8px 24px 24px 24px;font-size:14px;">
+  <a href="https://viderma.com.br/" style="color:#0F7C8F;text-decoration:none;margin-right:16px;">Compre na loja online</a>
+  <a href="https://viderma.com.br" style="color:#0F7C8F;text-decoration:none;">Solicite seu manipulado</a>
+</td></tr>
+
+
+<!-- Greeting -->
+<tr><td align="center" style="padding:32px 24px 8px 24px;font-size:20px;font-weight:bold;">
+  Olá *|PRIMEIRO_NOME|*,
+</td></tr>
+
+<!-- Hook + context -->
+<tr><td style="padding:8px 32px;font-size:15px;line-height:1.55;">
+  <p>Se tem uma coisa que aprendemos nesses anos na Viderma, é que cada corpo é diferente. Histórico único. Rotina única. Necessidades únicas. Por isso a gente não acredita em soluções genéricas.</p>
+  <p>A Viderma une <strong>inovação em tecnologia</strong> (como a nova geração de espículas microagulhadoras para renovação de pele) com <strong>fórmulas manipuladas customizadas</strong> — porque você merece um cuidado que reconheça quem você realmente é, não quem a indústria acha que você deveria ser.</p>
+  <p style="font-weight:bold;">Frete grátis para o RJ em compras acima de R$ 149.</p>
+  <p style="text-align:center;font-size:22px;margin:12px 0;">👇 👇</p>
+</td></tr>
+
+<!-- Product blocks -->
+
+<tr><td style="padding:16px 32px;border-top:1px solid #e5e5e5;">
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+    <tr>
+      <td valign="top" style="font-size:15px;line-height:1.5;">
+        <div style="font-weight:bold;font-size:16px;margin-bottom:6px;">Spicules Cream</div>
+        <div>Renove a pele sem agressão com a nova tecnologia de espículas microagulhadoras. Induz renovação natural, melhora textura e deixa a pele mais luminosa. Resultado: aparência mais jovem, sem procedimentos invasivos.</div>
+        <div style="margin-top:10px;">
+          <a href="https://viderma.com.br/?s=Spicules+Cream" style="color:#0F7C8F;text-decoration:none;font-weight:500;">Revitalize agora →</a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</td></tr>
+
+<tr><td style="padding:16px 32px;border-top:1px solid #e5e5e5;">
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+    <tr>
+      <td valign="top" style="font-size:15px;line-height:1.5;">
+        <div style="font-weight:bold;font-size:16px;margin-bottom:6px;">Fórmula Personalizada para Você</div>
+        <div>Cada receita é única — e a sua também deve ser. Na Viderma, você escolhe o objetivo (emagrecimento, performance, beleza, bem-estar), a gente manipula a fórmula perfeita com ativos escolhidos especialmente para você, na dose certa.</div>
+        <div style="margin-top:10px;">
+          <a href="https://viderma.com.br/manipulados/" style="color:#0F7C8F;text-decoration:none;font-weight:500;">Peça sua fórmula →</a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</td></tr>
+
+<tr><td style="padding:16px 32px;border-top:1px solid #e5e5e5;">
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+    <tr>
+      <td valign="top" style="font-size:15px;line-height:1.5;">
+        <div style="font-weight:bold;font-size:16px;margin-bottom:6px;">BeautyPill — Beleza de Dentro para Fora</div>
+        <div>Colágeno tipo II, ácido hialurônico, biotina e vitaminas que trabalham juntas para firmeza, hidratação e brilho natural. Tomar cuidado com a beleza não é vaidade — é autoestima.</div>
+        <div style="margin-top:10px;">
+          <a href="https://viderma.com.br/?s=BeautyPill" style="color:#0F7C8F;text-decoration:none;font-weight:500;">Inclua na rotina →</a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</td></tr>
+
+<tr><td style="padding:16px 32px;border-top:1px solid #e5e5e5;">
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+    <tr>
+      <td valign="top" style="font-size:15px;line-height:1.5;">
+        <div style="font-weight:bold;font-size:16px;margin-bottom:6px;">Shot Matinal — Energia & Foco</div>
+        <div>Comece o dia com mais energia, imunidade e clareza mental. Vitamina C, cafeína natural, taurina e eletrólitos em uma dose única. Ideal para quem quer potencializar a manhã.</div>
+        <div style="margin-top:10px;">
+          <a href="https://viderma.com.br/?s=Shot+Matinal" style="color:#0F7C8F;text-decoration:none;font-weight:500;">Melhore sua energia →</a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</td></tr>
+
+<tr><td style="padding:16px 32px;border-top:1px solid #e5e5e5;">
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+    <tr>
+      <td valign="top" style="font-size:15px;line-height:1.5;">
+        <div style="font-weight:bold;font-size:16px;margin-bottom:6px;">Creatina Gummies — Força & Performance</div>
+        <div>Ganhe massa magra sem sofrência com creatina monohidratada em gummies. Potencia treino, acelera recuperação, melhora força. Dosagem certa, sabor agradável.</div>
+        <div style="margin-top:10px;">
+          <a href="https://viderma.com.br/?s=Creatina+Gummies" style="color:#0F7C8F;text-decoration:none;font-weight:500;">Potencialize seus ganhos →</a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</td></tr>
+
+<!-- Sua Receita, Nossa Fórmula! box -->
+<tr><td style="padding:24px;">
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background:#0F7C8F;color:#ffffff;border-radius:4px;">
+    <tr><td style="padding:28px 24px;">
+      <div style="font-family:Georgia,serif;font-size:24px;text-align:center;margin-bottom:16px;">Sua Receita, Nossa Fórmula!</div>
+      <ol style="margin:0;padding-left:20px;font-size:15px;line-height:1.6;">
+        <li>Tire uma foto da sua receita</li>
+        <li>Envie para nós via WhatsApp</li>
+        <li>Pronto! Entraremos em contato com seu orçamento rapidamente. <strong>Frete Grátis para o RJ!</strong></li>
+      </ol>
+    </td></tr>
+  </table>
+  <p style="text-align:center;margin:16px 0 0;">
+    <a href="https://viderma.com.br/manipulados/" style="color:#0F7C8F;text-decoration:none;font-size:15px;">Solicite seu manipulado →</a>
+  </p>
+</td></tr>
+
+<!-- Footer -->
+<tr><td align="center" style="padding:24px;font-size:12px;color:#888;line-height:1.5;">
+  Enviado por <strong>Viderma</strong><br>
+  Rio de Janeiro - Brasil · <a href="https://viderma.com.br/" style="color:#0F7C8F;">viderma.com.br</a><br>
+  Caso não queira mais receber estes e-mails, cancele sua inscrição.
+</td></tr>
+
+</table>
+</td></tr>
+</table>
+</body>
+</html>
