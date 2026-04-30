@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{subject}}</title>
+</head>
+<body style="margin:0;padding:0;background:#f6f6f6;font-family:Arial,Helvetica,sans-serif;color:#333;">
+<table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background:#f6f6f6;">
+<tr><td align="center" style="padding:24px 0;">
+<table role="presentation" width="600" cellspacing="0" cellpadding="0" border="0" style="background:#ffffff;max-width:600px;">
+
+<!-- Header strip -->
+<tr><td align="center" style="padding:24px 24px 8px 24px;">
+  <a href="https://viderma.com.br/" style="text-decoration:none;">
+    <img src="https://viderma.com.br/wp-content/uploads/2023/07/logo-viderma.png" alt="Viderma — Farmácia de Manipulação" width="220" style="display:block;border:0;">
+  </a>
+</td></tr>
+<tr><td align="center" style="padding:8px 24px 24px 24px;font-size:14px;">
+  <a href="https://viderma.com.br/" style="color:#0F7C8F;text-decoration:none;margin-right:16px;">Compre na loja online</a>
+  <a href="https://viderma.com.br/manipulados/" style="color:#0F7C8F;text-decoration:none;">Solicite seu manipulado</a>
+</td></tr>
+
+<!-- Hero banner -->
+<tr><td style="padding:0 24px;">
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background:#0F7C8F;color:#ffffff;border-radius:4px;">
+    <tr><td style="padding:32px 24px;text-align:left;">
+      <div style="font-size:26px;font-weight:bold;letter-spacing:0.5px;">{{hero_title}}</div>
+      <div style="font-size:15px;margin-top:8px;opacity:0.95;">{{hero_subtitle}}</div>
+    </td></tr>
+  </table>
+</td></tr>
+
+<!-- Greeting -->
+<tr><td align="center" style="padding:32px 24px 8px 24px;font-size:20px;font-weight:bold;">
+  Olá {{nome}},
+</td></tr>
+
+<!-- Hook + context -->
+<tr><td style="padding:8px 32px;font-size:15px;line-height:1.55;">
+  <p>{{hook}}</p>
+  <p>{{context}}</p>
+  <p style="font-weight:bold;">Frete grátis para o RJ em compras acima de R$ 149.</p>
+  <p style="text-align:center;font-size:22px;margin:12px 0;">👇 👇</p>
+</td></tr>
+
+<!-- Product blocks -->
+<!-- Repeat this block per product -->
+{{product_blocks}}
+
+<!-- Sua Receita, Nossa Fórmula! box -->
+<tr><td style="padding:24px;">
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background:#0F7C8F;color:#ffffff;border-radius:4px;">
+    <tr><td style="padding:28px 24px;">
+      <div style="font-family:Georgia,serif;font-size:24px;text-align:center;margin-bottom:16px;">Sua Receita, Nossa Fórmula!</div>
+      <ol style="margin:0;padding-left:20px;font-size:15px;line-height:1.6;">
+        <li>Tire uma foto da sua receita</li>
+        <li>Envie para nós via WhatsApp</li>
+        <li>Pronto! Entraremos em contato com seu orçamento rapidamente. <strong>Frete Grátis para o RJ!</strong></li>
+      </ol>
+    </td></tr>
+  </table>
+  <p style="text-align:center;margin:16px 0 0;">
+    <a href="https://viderma.com.br/manipulados/" style="color:#0F7C8F;text-decoration:none;font-size:15px;">Solicite seu manipulado →</a>
+  </p>
+</td></tr>
+
+<!-- Footer -->
+<tr><td align="center" style="padding:24px;font-size:12px;color:#888;line-height:1.5;">
+  Enviado por <strong>Viderma</strong><br>
+  Rio de Janeiro - Brasil · <a href="https://viderma.com.br/" style="color:#0F7C8F;">viderma.com.br</a><br>
+  Caso não queira mais receber estes e-mails, <a href="{{unsubscribe_link}}" style="color:#888;">cancele sua inscrição</a>.
+</td></tr>
+
+</table>
+</td></tr>
+</table>
+</body>
+</html>
+
+<!--
+PRODUCT BLOCK TEMPLATE — copy once per product, fill in the four fields, drop into {{product_blocks}} above.
+
+<tr><td style="padding:16px 32px;border-top:1px solid #e5e5e5;">
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+    <tr>
+      <td valign="top" width="140" style="padding-right:16px;">
+        <img src="{{product_image}}" alt="{{product_name}}" width="120" style="display:block;border:0;">
+      </td>
+      <td valign="top" style="font-size:15px;line-height:1.5;">
+        <div style="font-weight:bold;font-size:16px;margin-bottom:6px;">{{product_name}}</div>
+        <div>{{product_description}}</div>
+        <div style="margin-top:10px;">
+          <a href="{{product_link}}" style="color:#0F7C8F;text-decoration:none;font-weight:500;">{{product_cta}} →</a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</td></tr>
+-->
